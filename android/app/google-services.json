@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539834085819",
+    "project_id": "commutifyy",
+    "storage_bucket": "commutifyy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539834085819:android:25bb2145fef04e993e549e",
+        "android_client_info": {
+          "package_name": "com.example.commutifyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539834085819-j6gg34djbr99nl5v1hlcvvcc3p96hurt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.commutifyy",
+            "certificate_hash": "38627e288f2a79715b78efba0c46501318e38e17"
+          }
+        },
+        {
+          "client_id": "539834085819-8ig7d148eqi262qvc2vnfnr8vetqi194.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKyNxlr_4JO5QUf8OdJe7iPsFndRhZOaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539834085819-8ig7d148eqi262qvc2vnfnr8vetqi194.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
